@@ -1,7 +1,7 @@
 const MongoClient = require('mongodb').MongoClient;
 const assert = require('assert');
 
-const url = 'mongodb+srv://usuario1:usuario1@cluster0-ukami.mongodb.net/test?retryWrites=true&w=majority';
+const url = '/////';
 
 const dbName = 'Cluster0';
 
